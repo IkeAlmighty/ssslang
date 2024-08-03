@@ -1,0 +1,4 @@
+teacup
+boot
+shoe
+pizza

@@ -1,0 +1,11 @@
+{
+  "name": "ssslang",
+  "version": "1.0.0",
+  "description": "sorcerer soup spell language. A language for creating psuedo random spells in sorcerer soup.",
+  "main": "ssslang.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ikealmighty",
+  "license": "ISC"
+}
