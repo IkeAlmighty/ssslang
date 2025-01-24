@@ -1,0 +1,864 @@
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 5 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 10 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It explodes, dealing 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It leaves a dust cloud, obscuring the view of anybody within.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It heals for 1d6 + 2.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). You loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target player loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see gains 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 - 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 1 hp, and can now use Fight Like an Animal for the of this combat.
+
+Throw $(objects.txt) up to 20 feet away. It switches locations with another object in eyesight.
+
+Eat a $(objects.txt). target npc you can see loses 1d6 + 5 hp, and can now use Fight Like an Animal for the of this combat.

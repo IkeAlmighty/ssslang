@@ -2,3 +2,5 @@
 Throw $(objects.txt) up to $[5; 10; 20] feet away. It $[explodes, dealing 1d6 + 2; leaves a dust cloud, obscuring the view of anybody within; heals for 1d6 + 2; switches locations with another object in eyesight].
 
 Eat a $(objects.txt). $[You; target player; target npc you can see] $[gains; loses] 1d6 $[- 1; + 1; + 5] hp, and can now use Fight Like an Animal for the of this combat.
+
+$[hello; goodbye; $[friend, foe]]!
