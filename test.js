@@ -1,4 +1,44 @@
-const { expandOnce, expandAll, compile } = require('./ssslang.js');
+const { tokenize, parse, generate } = require('./ssslang.js')
 
-let expansions = expandAll(`Throw a $[hammer; tea-cup; rice cooker; small animal] at $[a wall; an enemy; the sky; the ground]. Gain $[1; 2; 3; 4] d6 of hp permenantly.`);
-expansions.forEach(e => console.log(e));
+let tokens = tokenize('$[Letter $[a; b]]')
+console.log(tokens)
+let ast = parse(tokens);
+console.log(JSON.stringify(ast, null, 3))
+
+let s = generate(ast);
+// console.log(s);
+
+// console.log(outputs);
+
+const d = {
+
+    "type": "Expression",
+    "children": [
+        {
+            "type": "Expression",
+            "children": [
+                {
+                    "type": "Item",
+                    "value": "Throw a "
+                },
+                {
+                    "type": "Expression",
+                    "children": [
+                        {
+                            "type": "Item",
+                            "value": "hammer"
+                        },
+                        {
+                            "type": "Item",
+                            "value": " tea-cup"
+                        }
+                    ]
+                },
+                {
+                    "type": "Item",
+                    "value": "."
+                }
+            ]
+        }
+    ]
+}

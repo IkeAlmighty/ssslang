@@ -1,63 +1,123 @@
 const { writeFile, readFile } = require('node:fs/promises')
 
-// expands template expressions recursively, returning total 
-// the expansions in a list.
-function expandOnce(code) {
-    // iterate through each of code's characters
+function tokenize(code) {
+    const tokens = []
+    // first, read and tokenize the code given:
+    let tokenStart = 0;
     for (let i = 0; i < code.length; i++) {
-        // if the character starts an expansion, then expand
-        if (code[i] === '$' && i + 2 < code.length) {
-            let startExpr = i;
+        if (code[i] === '$' && i + 1 < code.length && code[i + 1] === '[') {
+            const item = code.substring(tokenStart, i);
+            if (item.trim().length > 0) tokens.push({ type: 'ITEM', value: item })
 
-            if (i + 1 < code.length && code[i + 1] === '[') {
+            tokens.push({ type: "START_EXP", value: '$[' });
 
-                // iterate through characters until either another expansion is found,
-                // or this expansion ends. If the code ends without either of
-                // those scenarios happening, then throw and error:
-                i++;
-                for (; code[i] != ']' && code[i] != '$' && i < code.length; i++);
+            i++;
+            tokenStart = i + 1;
+        }
 
-                // if an embedded expansion is found, throw and error
-                if (code[i] == '$' && i + 1 < code.length && code[i + 1] == '[') {
-                    throw Error(`error character ${i}: ssslang does not currently support nested expressions.`)
-                }
+        else if (code[i] === ';') {
+            tokens.push({ type: "ITEM", value: code.substring(tokenStart, i) });
+            i++;
+            tokenStart = i;
+        }
 
-                else if (code[i] == ']') {
-                    let values = code.substring(startExpr + 2, i).split(';').map(v => v.trim());
-                    return values.map(insert => code.substring(0, startExpr) + insert + code.substring(i + 1));
-                }
+        else if (code[i] === ']') {
+            tokens.push({ type: "ITEM", value: code.substring(tokenStart, i) })
+            tokens.push({ type: 'END_EXP', value: ']' });
 
-                else {
-                    throw Error(`no closing "]" for opening "$[" on character ${startExpr}.`)
-                }
-            }
+            if (i + 1 < code.length && code[i + 1] === ';') i++;
+            i++;
+            tokenStart = i;
+        }
+    }
+
+    return tokens;
+}
+
+class ExpressionNode {
+    constructor(children = []) {
+        this.type = "Expression";
+        this.children = children;
+    }
+
+    accept(visitor) {
+        return visitor.visitExpressionNode(this);
+    }
+}
+
+class ItemNode {
+    constructor(value) {
+        this.type = "Item";
+        this.value = value;
+    }
+
+    accept(visitor) {
+        return visitor.visitItemNode(this);
+    }
+}
+
+class NodeVisitor {
+    constructor() {
+        this.expansions = [""];
+    }
+
+    visitExpressionNode(node) {
+
+
+    }
+
+    visitItemNode(node) {
+        for (let i = 0; i < this.expansions.length; i++) {
+            this.expansions[i] = node.value + this.expansions[i];
         }
     }
 }
 
-function expandAll(code) {
-    let expansions = [];
-    let oldLength = expansions.length;
+function parse(tokens) {
+    let index = 0;
 
-    expansions = expandOnce(code);
-    while (expansions.length > oldLength) {
-        oldLength = expansions.length;
-        // compose a new array:
-        expansions.forEach(e => {
-            let expansion = expandOnce(e);
-            if (expansion) {
-                expansions = [...expansions.filter((m) => m !== e), ...expansion];
+    function parseExpression() {
+        let children = [];
+        while (index < tokens.length) {
+            let token = tokens[index++]; // weird syntax - but the increment happens after the read
+
+            if (token.type === 'START_EXP') {
+                children.push(parseExpression());
             }
-        });
+            else if (token.type === 'ITEM') {
+                children.push(new ItemNode(token.value));
+            }
+            else if (token.type === 'END_EXP') {
+                return new ExpressionNode(children);
+            }
+            else {
+                throw new Error(`Invalid Token Type: ${token}`)
+            }
+        }
+
+        return new ExpressionNode(children);
     }
 
-    return expansions;
+    return parseExpression().children[0]; // parser
 }
+
+function generate(node) {
+    const generator = new NodeVisitor();
+    node.accept(generator);
+
+    return generator.expansions;
+}
+
+
 
 async function compile(inputFileName, outputFileName) {
     const input = await readFile(inputFileName, 'utf-8');
-    const expansions = expandAll(input);
-    const output = expansions.map(e => `${e}\n`)
+    //TODO: compile the input into expanded output.
+
+    let tokens = tokenize(input);
+    let ast = parse(tokens);
+
+    let output = generate(ast);
     await writeFile(outputFileName, output);
 }
 
@@ -66,4 +126,4 @@ if (require.main === module) {
     compile(inputFileName, outputFileName);
 }
 
-module.exports = { expandOnce, expandAll, compile };
+module.exports = { tokenize, parse, generate };
