@@ -1,11 +1,22 @@
 const { tokenize, parse, generate } = require('./ssslang.js')
 
-let tokens = tokenize('$[Letter $[a; b]]')
+let tokens = tokenize('$[Throw a $[hammer; pebble at a $[wall; puddle]]]')
+// throw a hammer
+// throw a pebble at a wall
+// throw a pebble at a puddle
+
+/**
+ * Throw a --> hammer
+ * |
+ *  ---> pebble at a --> wall
+ *          | 
+ *           ---> puddle
+ */
 console.log(tokens)
 let ast = parse(tokens);
 console.log(JSON.stringify(ast, null, 3))
 
-let s = generate(ast);
+// let s = generate(ast);
 // console.log(s);
 
 // console.log(outputs);
